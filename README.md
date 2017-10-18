@@ -8,9 +8,11 @@ Mac/Linux:
 `$ git clone https://github.com/wadepool/dash-syntax_vs-code.git`
 
 Then cd into the dash-syntax_vs-code folder
-`$ cd dash-syntax_vs-code
+
+`$ cd dash-syntax_vs-code`
 
 Copy the dash-syntax folder into .vscode folder
+
 `$ cp -r dash-syntax ~/.vscode/extensions/`
 
 Select "Dash Syntax" to set your theme
