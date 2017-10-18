@@ -1,0 +1,19 @@
+{
+	"name": "dash-theme",
+	"displayName": "Dash Syntax",
+	"description": "Atom's Dash theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "Wadepool",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Atom Dash",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dash.json"
+			}
+		]
+	}
+}
