@@ -10,7 +10,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Atom Dash",
+				"label": "Dash Syntax",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Dash.json"
 			}
