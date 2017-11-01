@@ -207,7 +207,7 @@
         "name": "Conditionals",
         "scope": "keyword.control.switch.js, keyword.control.conditional.js, keyword.control.loop.js, keyword.control.trycatch.js, keyword.control.flow.js",
         "settings": {
-          "foreground": "#e06c75",
+          "foreground": "#dbe5ed",
           "fontStyle": "bold"
         }
       },
