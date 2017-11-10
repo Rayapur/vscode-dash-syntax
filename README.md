@@ -19,8 +19,9 @@ Then go to your editor and Select "Dash Syntax" to set your theme
 
 TODO
 Add more information about customization
-[ ] Complete syntax colors for JS
-[ ] Finish the editor ui
-[ ] Add syntax colors for Python
-[ ] Clean up config and 
+(Currently in working progress) 
+1. [ ] Complete syntax colors for JS
+2. [ ] Finish the editor ui
+3. [ ] Add syntax colors for Python
+4. [ ] Clean up config and editor elements
 
